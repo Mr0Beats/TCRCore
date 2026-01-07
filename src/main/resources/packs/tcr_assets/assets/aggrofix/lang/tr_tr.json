@@ -1,0 +1,9 @@
+{
+  "enchantment.aggrofix.aggrobaiting": "Kışkırtma",
+  "enchantment.aggrofix.aggrobaiting.desc": "Yakındaki canavarları çekmek için sağ tıkla",
+  "config.aggrofix.aggrofix": "Kışkırtma Düzeltmesi",
+  "gamerule.useAggroFix": "Kışkırtma Düzeltmesini Kullan",
+  "enchantment.aggrofix.aggronizing": "Kışkırtılıyor",
+  "enchantment.aggrofix.aggronizing.desc": "Bir yaratığa hasar verildiğinde uygulanan kışkırtma değeri, (1 + Büyü Seviyesi) × Verilen Hasar olarak değiştirilir",
+  "gamerule.useAggroFix.description": "Kışkırtma sistemini değiştir"
+}
