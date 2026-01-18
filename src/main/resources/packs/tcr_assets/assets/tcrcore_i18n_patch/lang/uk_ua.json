@@ -281,7 +281,7 @@
   "tcrcore.task_desc.light_all_altar": "Запали всі вівтарі.",
   "unlock_tip.tcrcore.battleborn.fire_avoid": "Вивчається після перемоги над §6[Кістяною Химерою]§r",
   "unlock_tip.tcrcore.battleborn.water_avoid": "Вивчається при торгівлі з селянами в §6[Лугах]§r за смарагди",
-  "unlock_tip.tcrcore.get_vatansever": "Розблоковується після отримання §d[Vatansever]§f"
+  "unlock_tip.tcrcore.get_vatansever": "Розблоковується після отримання §d[Vatansever]§f",
   "epicfight.skill_slot.passive4": "Пасивний 4",
   "epicfight.skill_slot.passive5": "Пасивний 5",
   "info.tcr.godness_statue_pos": "Статуя Богині",
@@ -297,5 +297,7 @@
   "item.tcrcore.proof_of_adventure.usage": "Викуваний з імен усіх ворогів, переможених твоїм клинком. Твій шлях добіг кінця, і твоя відвага стала легендою.",
   "item.waystones.warp_stone.tcr_info": "Використовуйте §6[Сувій або Камінь переміщення]§r, щоб повернутися до раніше активованих каменів!",
   "travelerstitles.tcrcore.sanctum": "Царство Мрій",
-  "unlock_tip.tcrcore.battleborn.water_avoid1": "Вивчається під час торгівлі з §6[Ріббітами]§f за §d[Аметистовий блок]§f"
+  "unlock_tip.tcrcore.battleborn.water_avoid1": "Вивчається під час торгівлі з §6[Ріббітами]§f за §d[Аметистовий блок]§f",
+  "tcrcore.task_desc.back_to_keeper": "Повернутися до Вартового",
+  "tcrcore.task_desc.go_to_overworld": "Вирушити у Верхній світ"
 }
