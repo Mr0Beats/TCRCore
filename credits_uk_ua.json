@@ -1,0 +1,218 @@
+[
+  {
+    "section": "Команда Розробки",
+    "disciplines": [
+      {
+        "discipline": "Автор",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Планувальник",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Програміст",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Книга Квестів, Ілюстрований Довідник, Навчання",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Дизайн Діалогів",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Сюжетний Дизайн",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Арт-директор",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Фоновий Сеттинг",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Зовнішня Підтримка",
+        "titles": [
+          {
+            "title": "Святилище",
+            "names": [
+              "El_mal（玩建筑的牢E）"
+            ]
+          },
+          {
+            "title": "Деякі Анімації",
+            "names": [
+              "merlin204"
+            ]
+          },
+          {
+            "title": "Деякі Текстури",
+            "names": [
+              "一只路过的小吴 (Деякі Предмети)",
+              "XVIII-凌 (Деякі Ефекти Меча)",
+              "Ao (Деякі Навички, NPC)",
+              "脚踏梯子hill (Слід)"
+            ]
+          },
+          {
+            "title": "Ландшафт",
+            "names": [
+              "wonderful艾晨"
+            ]
+          }
+        ,
+          {
+            "title": "Створення Серверного Паку",
+            "names": [
+              "KamiKaguya"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Технічна Підтримка",
+        "titles": [
+          {
+            "title": "Спонсорство Тестового Сервера",
+            "names": [
+              "白露（NHBlock）"
+            ]
+          },
+          {
+            "title": "Допомога у Зйомках",
+            "names": [
+              "Arcadia"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Учасники Закритого Бета-тестування",
+    "disciplines": [
+      {
+        "discipline": "",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "T_muse_Y",
+              "HuaSheng_peanuts",
+              "merlin204",
+              "ShelMarow",
+              "Arcadia",
+              "霖",
+              "32spark",
+              "脚踏梯子hill"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Доступне Місце для Реклами",
+    "disciplines": [
+      {
+        "discipline": "Доступне Місце для Реклами",
+        "titles": [
+          {
+            "title": "Доступне Місце для Реклами",
+            "names": [
+              "Доступне Місце для Реклами",
+              "Зв'яжіться з P1nero для деталей"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Особлива Подяка",
+    "disciplines": [
+      {
+        "discipline": "",
+        "titles": [
+          {
+            "title": "I18n (Перекладачі на інші мови можуть додати своє ім'я тут)",
+            "names": [
+              "zh_cn, en_us - P1nero",
+              "uk_ua - Mr_Beats"
+            ]
+          },
+          {
+            "title": "Вшанування",
+            "names": [
+              "Yesman",
+              "Super Awesome Baby Team",
+              "Minecraft",
+              "Minecraft Forge",
+              "Та всім модам, ресурспакам та шейдерам, використаним у цій збірці."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
