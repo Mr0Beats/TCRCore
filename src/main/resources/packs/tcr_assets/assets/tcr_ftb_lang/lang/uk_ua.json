@@ -2,7 +2,7 @@
   "ftbquests.chapter.252FC81556BE3D4B.quest1310141621149818918.description1": "Випадає при вбивстві \u00266{entity.cataclysm.aptrgangr}\u0026r",
   "ftbquests.chapter.252FC81556BE3D4B.quest1310141621149818918.subtitle": "Сезам, відкрийся",
   "ftbquests.chapter.252FC81556BE3D4B.quest1521002339387395093.description1": "Отримується за виконання \u00266головних квестів\u0026r",
-  "ftbquests.chapter.252FC81556BE3D4B.quest1521002339387395093.description2": "Отримується за виконання \u00266певних3 квестів\u0026r",
+  "ftbquests.chapter.252FC81556BE3D4B.quest1521002339387395093.description2": "Отримується за виконання \u00266певних квестів\u0026r",
   "ftbquests.chapter.252FC81556BE3D4B.quest1521002339387395093.description3": "Отримується за виконання \u00266{itemGroup.bountiful}\u0026r",
   "ftbquests.chapter.252FC81556BE3D4B.quest1521002339387395093.subtitle": "Ніби тигр отримав крила",
   "ftbquests.chapter.252FC81556BE3D4B.quest1702170312402154650.description1": "Випадає при вбивстві \u00266{entity.dodosmobs.bone_chimera}\u0026r",
@@ -397,4 +397,5 @@
   "ftbquests.chapter.chaptertcr2.quest970201556921326311.subtitle": "Кування з дропу після перемоги над §6Маледіктусом§r.",
   "ftbquests.chapter.chaptertcr2.subtitle0": "§6Збирайте Уламки Оракула, щоб розблокувати більше розділів!§r",
   "ftbquests.chapter.chaptertcr2.title": "§6Таємнича Зброя"
+
 }
