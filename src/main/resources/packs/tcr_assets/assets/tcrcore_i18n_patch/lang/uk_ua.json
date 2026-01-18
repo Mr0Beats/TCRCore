@@ -282,4 +282,20 @@
   "unlock_tip.tcrcore.battleborn.fire_avoid": "Вивчається після перемоги над §6[Кістяною Химерою]§r",
   "unlock_tip.tcrcore.battleborn.water_avoid": "Вивчається при торгівлі з селянами в §6[Лугах]§r за смарагди",
   "unlock_tip.tcrcore.get_vatansever": "Розблоковується після отримання §d[Vatansever]§f"
+  "epicfight.skill_slot.passive4": "Пасивний 4",
+  "epicfight.skill_slot.passive5": "Пасивний 5",
+  "info.tcr.godness_statue_pos": "Статуя Богині",
+  "info.tcr.need_to_unlock_waystone": "Камінь Шляху не активовано!",
+  "info.tcr.press_to_open_portal_screen2": "Використовуйте §6[Сувій всередині інвентарю або Камінь переміщення]§r, щоб повернутися до раніше активованих каменів!",
+  "info.tcr.require_item_to_wake": "Потрібно [%s]...",
+  "info.tcr.tudigong_gift": "[Подарунок]",
+  "info.tcr.tudigong_gift_get": "§6[Ту Ді]§f: Я став старим і непотрібним, тому я передаю цей скарб тобі!",
+  "info.tcr.weapon_no_interact": "Неможливо взаємодіяти! Натисніть [F], щоб перейти в режим від першої особи, або використайте інший предмет.",
+  "item.sophisticatedbackpacks.advanced_magnet_upgrade.tcr_info": "§cУвага! Цей предмет може призвести до затягування важливих речей у рюкзак та їхньої втрати!",
+  "item.sophisticatedbackpacks.magnet_upgrade.tcr_info": "§cУвага! Цей предмет може призвести до затягування важливих речей у рюкзак та їхньої втрати!",
+  "item.tcrcore.proof_of_adventure": "Доказ пригоди",
+  "item.tcrcore.proof_of_adventure.usage": "Викуваний з імен усіх ворогів, переможених твоїм клинком. Твій шлях добіг кінця, і твоя відвага стала легендою.",
+  "item.waystones.warp_stone.tcr_info": "Використовуйте §6[Сувій або Камінь переміщення]§r, щоб повернутися до раніше активованих каменів!",
+  "travelerstitles.tcrcore.sanctum": "Царство Мрій",
+  "unlock_tip.tcrcore.battleborn.water_avoid1": "Вивчається під час торгівлі з §6[Ріббітами]§f за §d[Аметистовий блок]§f"
 }
